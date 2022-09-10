@@ -1,1 +1,1 @@
-# just-check-news
+# just-tech-news
